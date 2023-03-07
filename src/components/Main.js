@@ -27,7 +27,7 @@ export const Main = () => {
         "Elige Tu Vale ;)",
         "Un Anillo Facherito",
         "Irnos De Compras",
-        "Te visito",//16
+        "Te visito",//17
     ]
 
 
