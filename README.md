@@ -1,5 +1,7 @@
 # Congratulations Web
 
+A customizable react.js web to congrat someone
+
 ### Variables to change
 
 Located in src/components/Main.js
