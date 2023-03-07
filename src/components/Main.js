@@ -16,7 +16,7 @@ export const Main = () => {
         "Una Videollamada Nocturna",
         "Un Regalaso",
         "Viaje En Cochesito",
-        "Chuches",
+        "Regalices negros",
         "Una Escapada",
         "Tu Comida Favorita",
         "Una Mega Tarde", //9
@@ -26,7 +26,8 @@ export const Main = () => {
         "Your Workshit",
         "Elige Tu Vale ;)",
         "Un Anillo Facherito",
-        "Irnos De Compras"//16
+        "Irnos De Compras",
+        "Te visito",//16
     ]
 
 
@@ -41,7 +42,7 @@ export const Main = () => {
 
 
     const elegirRegalo = () => {
-        let nuevoNumero = Math.round((Math.random() * (edad - 1) + 1))
+        let nuevoNumero = Math.round((Math.random() * (regalos.length - 1) + 1))
         let arrayTemp = numerosV
         setClickado(true)
 
