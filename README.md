@@ -1,7 +1,9 @@
 # Congratulations Web
 
 ### Variables to change
+
 Located in src/components/Main.js
+
 ```
 logo -> logo of the web
 nombre -> name of the person
