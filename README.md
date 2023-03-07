@@ -1,4 +1,4 @@
-# Congratulations Page
+# Congratulations Web
 
 ### Variables to change
 Located in src/components/Main.js
