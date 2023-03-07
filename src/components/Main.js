@@ -86,9 +86,9 @@ export const Main = () => {
             <div className={!clickado ? '' : 'none'}>
                 <img className='imgCumpleanero' src={cumpleanero}></img>
                 <div>
-                    <p>Que onda panita? Al parecer es tu cumpleanos</p>
+                    <p>Que onda panita? Al parecer es tu cumpleaños</p>
                     <p>Y como ya cumples {edad} añazos pues tienes {edad} regalos disponibles</p>
-                    <p>Este ano son vales para {edad} cosas aleatorias</p>
+                    <p>Este año son vales para {edad} cosas aleatorias</p>
                     <p>Dale al botón de abajo para conseguirlos</p>
                     <p style={{ fontSize: "10px" }}>DISCLAIMER: No se sortean nudes</p>
                 </div>
