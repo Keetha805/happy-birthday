@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/happy-birthday/static/css/main.97ded816.css",
-    "main.js": "/happy-birthday/static/js/main.700a6780.js",
+    "main.js": "/happy-birthday/static/js/main.fd68d3c1.js",
     "static/media/congrats.png": "/happy-birthday/static/media/congrats.ed1a34a5ea08c837e73e.png",
     "static/media/happyB.jpg": "/happy-birthday/static/media/happyB.3166f37e0e7dcb0de534.jpg",
     "static/media/imgCumpleanero.jpeg": "/happy-birthday/static/media/imgCumpleanero.1b1f81b3dd157cbafe2a.jpeg",
     "index.html": "/happy-birthday/index.html",
     "main.97ded816.css.map": "/happy-birthday/static/css/main.97ded816.css.map",
-    "main.700a6780.js.map": "/happy-birthday/static/js/main.700a6780.js.map"
+    "main.fd68d3c1.js.map": "/happy-birthday/static/js/main.fd68d3c1.js.map"
   },
   "entrypoints": [
     "static/css/main.97ded816.css",
-    "static/js/main.700a6780.js"
+    "static/js/main.fd68d3c1.js"
   ]
 }
