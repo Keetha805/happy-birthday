@@ -2,12 +2,12 @@ import React, { useState } from 'react';
 import { ValePor } from './ValePor';
 import { Terminado } from './Terminado';
 import logo from '../img/happyB.jpg';
-import cumpleañero from '../img/imgCumpleañero.jpeg';
+import cumpleanero from '../img/imgCumpleanero.jpeg';
 
 export const Main = () => {
 
     const nombre = "Miara"
-    const evento = "Feliz Cumpleaños"
+    const evento = "Feliz Cumpleanos"
     const edad = 17
     const regalos = [
         "Hacer Un Picnic",//0
@@ -84,11 +84,11 @@ export const Main = () => {
             <img src={logo} className="img" alt="fotito" />
             <h1>¡{evento.toUpperCase()} {nombre.toUpperCase()}!</h1>
             <div className={!clickado ? '' : 'none'}>
-                <img className='imgCumpleañero' src={cumpleañero}></img>
+                <img className='imgCumpleanero' src={cumpleanero}></img>
                 <div>
-                    <p>Que onda panita? Al parecer es tu cumpleaños</p>
-                    <p>Y como ya cumples {edad} AÑAZOS pues tienes {edad} regalos disponibles</p>
-                    <p>Este año son vales para {edad} cosas aleatorias</p>
+                    <p>Que onda panita? Al parecer es tu cumpleanos</p>
+                    <p>Y como ya cumples {edad} AnAZOS pues tienes {edad} regalos disponibles</p>
+                    <p>Este ano son vales para {edad} cosas aleatorias</p>
                     <p>Dale al botón de abajo para conseguirlos</p>
                     <p style={{ fontSize: "10px" }}>DISCLAIMER: No se sortean nudes</p>
                 </div>

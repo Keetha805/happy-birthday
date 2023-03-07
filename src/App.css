@@ -14,12 +14,12 @@
 }
 
 .img {
-  --tamaño: 80px;
-  --tamañoB: 5px;
+  --tamano: 80px;
+  --tamanoB: 5px;
   --blur: 1px;
-  width: var(--tamaño);
+  width: var(--tamano);
   border-radius: 10px;
-  box-shadow: var(--tamañoB) var(--tamañoB) var(--blur) 2px orange, calc(-1*var(--tamañoB)) calc(-1*var(--tamañoB)) var(--blur) 2px rgb(255, 227, 188);
+  box-shadow: var(--tamanoB) var(--tamanoB) var(--blur) 2px orange, calc(-1*var(--tamanoB)) calc(-1*var(--tamanoB)) var(--blur) 2px rgb(255, 227, 188);
 }
 
 h1 {
@@ -51,7 +51,7 @@ p {
   background-color: white;
 }
 
-.imgCumpleañero {
+.imgCumpleanero {
   width: 170px;
   border: 2px double white;
   border-radius: 5px;
