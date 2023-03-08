@@ -9,7 +9,7 @@ export const Main = () => {
     const nombre = "Miara"
     const evento = "Feliz Cumpleaños"
     const edad = 17
-    const cantidad = edad - 1
+    const cantidad = edad
     const regalos = [
         "Hacer Un Picnic",//0
         "Un Día De Pelis",
@@ -58,7 +58,7 @@ export const Main = () => {
             setMappeo(mappeo.concat({ "cod": codigo, "reg": regalo }))
         }
         else {
-            if (numerosV.length <= (cantidad)) {
+            if (numerosV.length <= (cantidad - 1)) {
                 elegirRegalo()
             }
             else {
