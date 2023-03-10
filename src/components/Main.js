@@ -6,7 +6,7 @@ import cumpleanero from '../img/imgCumpleanero.jpeg';
 
 export const Main = () => {
 
-    const nombre = "Miara"
+    const nombre = "Pepe"
     const evento = "Feliz Cumpleaños"
     const edad = 17
     const cantidad = edad
