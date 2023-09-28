@@ -1,6 +1,6 @@
 # Congratulations Web
 
-A customizable react.js web to congrat someone
+A customizable react.js web to congrat someone (and my first project using react by my own 😉)
 
 ### Variables to change
 
